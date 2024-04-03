@@ -2,6 +2,6 @@
   "name": "Restake the planet",
   "website": "",
   "description": "Playground operator for testing on Holesky",
-  "logo": "https://holesky-operator-metadata.s3.amazonaws.com/eigenlayer.png",
+  "logo": "https://raw.githubusercontent.com/jeffhubCB/eigenlayer-operator/main/logo.png",
   "twitter": ""
 }
